@@ -1,1 +1,14 @@
-# 2025-29_AaravKumar_25scs1003003630_3rdsemester_2CSE11
+Internship Documentation
+This repository contains my internship-related documents.
+
+Name: Aarav Kumar
+Roll Number: 25scs1003003630
+Section: 2CSE11
+Course: B.Tech CSE
+Semester: 3rd Semester
+Academic Year: 2025–29
+
+Documents
+📄 Internship Report
+📜 Internship Certificate
+📊 Internship Presentation
